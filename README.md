@@ -21,7 +21,7 @@ optional arguments:
   -n NUMBER_OF_DICE, --number_of_dice NUMBER_OF_DICE
                         number of dice (default: 5)
  
- $ python one_roll_Yahtzee.py --dice_sides 7 --number_of_dice 9
+$ python one_roll_Yahtzee.py --dice_sides 7 --number_of_dice 9
 Attempting to get a one roll Yahtzee with 9 7-sided dice
 rolling...
 after 5,622,174 rolls, this Yahtzee was rolled
